@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
+  "name": "astrology-bootstrap-vue",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt App",
-  "author": "msweeneydev",
+  "description": "astrology build for vue bootstrap-vue",
+  "author": "jixiang",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -10,6 +10,7 @@
     "start": "nuxt start"
   },
   "dependencies": {
+    "bootstrap-vue": "^2.21.2",
     "core-js": "^3.15.0",
     "nuxt": "^2.15.7"
   },
